@@ -1,5 +1,9 @@
 linux网络无法连接
+
+
+
 ---
+
 <font color=#000000 size=4 face="黑体">问题详情：在VM12上安装centOS6.9正常使用已经4个月，上周五开始出现了连接公共免费wifi和家用宽带wifi无法上网的情况，将电脑连接到个人手机移动热点后网络恢复。</font> <br/>
 <font color=#000000 size=4 face="黑体">**运行环境**：</font>  
 <font color=#000000 size=4 face="黑体">windows7(64bit)  centOS6.9(初始安装默认配置)</font> <br/>
@@ -13,8 +17,3 @@ linux网络无法连接
 <font color=#000000 size=4 face="黑体">3.更新或重装网卡驱动</font><br/>
 [网络解决方法1](https://blog.csdn.net/qq_33776334/article/details/70242900) 
 [网络解决方法2](http://www.jb51.net/os/RedHat/276383.html) 
-
-
-
-
-
